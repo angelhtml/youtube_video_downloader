@@ -15,8 +15,8 @@ A Python script to download YouTube videos at your chosen resolution — from ti
 YOUR_REPO/
 ├── content/
 │   ├── cookies.txt              # add your YouTube cookies here 
-│   └── cookies_fixed.txt        # auto-generated, repaired cookies
-├── downloads/                   # output folder , auto-generated
+│   └── cookies_fixed.txt        # auto-generated, repaired cookies 
+├── downloads/                   # output folder 
 ├── index.py  # video downloader script
 └── README.md
 
